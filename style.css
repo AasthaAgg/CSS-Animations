@@ -10,7 +10,8 @@ body{
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background-color: black;
+    background-image: url('background.png');
+    background-size: cover;
 }
 
 .loader{
